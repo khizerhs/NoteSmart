@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Note Smart</string>
+    <string-array name="importance_levels">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
